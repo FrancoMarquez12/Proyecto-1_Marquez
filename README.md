@@ -1,4 +1,4 @@
-Franco Marquez @Franco.Marquezet32@gmail.com 4°1 codigo estan adjuntado a la branch dentro de la carpeta de mismo nombre que dicho branch, screenshot del circuito no esta dentro de la carpeta debido a que por alguna razón, tal vez sea error mio pero no hay botón de editar screenshot en mobil.
+Franco Marquez @Franco.Marquezet32@gmail.com 4°1 codigo estan adjuntado a la branch dentro de la carpeta de mismo nombre que dicho branch, screenshot del circuito no esta dentro de la carpeta debido a que por alguna razón, no hay botón de editar screenshot en mobil, por lo que desafortunadamente no pude cambiar su nombre o direccion.
 
 Usando el ejercicio del TP1 como base:
 Desarrollar un sistema con , controlando el tiempo entre los cambios de colores mediante una resistencia variable (potenciómetro) que valla desde 0s(aprox) min a 3s(aprox) max, y el encendido/apagado de los LEDs con un pulsador (en funcionalidad boton) que puede detener y recomenzar la secuencia en cualquier momento,  un buzzer que emitirá un sonido cuando cambien los colores (junto a la secuencia de parpadeo).
