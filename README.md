@@ -1,1 +1,22 @@
-# Proyecto-1_Marquez
+TP 6, De: Franco Marquez Año: 4 Division: 1 Docente: Gonzalo Consorti
+
+Organizacion de branch: La carpeta TP 6 contiene un Ejercicio.png, la cual es una screenshot de el circuito. TP6.INO es el codigo de dicho circuito.
+
+Consigna: Implementar un sistema para controlar un ventilador y una lámpara en una habitación, usando:
+Un sensor de temperatura para medir la temperatura ambiente.
+Un sensor de movimiento (PIR) para detectar si hay alguien en la habitación.
+Controlar un ventilador (simulado con un Motor DC gris) de 12V con velocidad variable (dimmer) dependiendo de la temperatura, 
+y una lámpara 12V que se encienda solo cuando hay personas.
+  Temperatura mayor a 50°C  
+Ventilador a máxima velocidad si importar si hay o no gente dentro
+ Temperatura menor a 50°C  
+el ventilador esta apagado
+
+Si hay movimiento (persona detectada) y temperatura menor a 50°C  
+Ventilador se enciende con velocidad proporcional a temperatura en rangos:
+Lámpara encendida mientras tengamos persona dentro
+≤15°C → velocidad mínima PWM = 50
+= 30°C → PWM = 150
+>= 50°C → PWM = 255 (máximo)
+Si no hay persona (sin movimiento) 
+lámpara apagada
