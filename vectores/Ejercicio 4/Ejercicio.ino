@@ -1,5 +1,5 @@
 int vector[] = {1, 0, 0, 1, 1, 0, 1, 1};
-int RED = 2;
+int led = 2;
 
 void setup() {
   pinMode(led, OUTPUT);
