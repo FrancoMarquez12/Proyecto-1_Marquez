@@ -1,11 +1,11 @@
-#Guía de ejercicios 2 
+# Guía de ejercicios 2 
 De: Franco Marquez Año: 4 Division: 1 Docente: Gonzalo Consorti
 
 Organizacion de branch: La carpeta "Vectores" contiene los 10 ejercicios de la seccion del mismo nombre. Cada ejercicio tiene su propia carpeta que continene una captura de el arduino y el codigo de este.
 La carpeta "Funciones", como la de "Vectores", tiene los 10 ejercicios en carpetas propias, conteniendo una captura del arduino y su codigo. Si la carpeta no contiene captura es porque el ejercicio es puramente codigo.
 
 Consigna:
-#Vectores
+# Vectores
 calcular la media de todo el conjunto de elementos del array { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
 Ordenar el vector de menor a mayor { 10, 4 , 2, }
 Mostrar el número más grande del vector {5.4 , 5.39 , 5.38 , 5.31 , 5.21 , 5.03 , 4.45 , 3.95 , 2.6 , 1.49  }
@@ -25,7 +25,7 @@ L2 {33  , 53  , 155}
 L3 {200 , 255 , 12}
 Guardar en un vector 10 números aleatorios (del 1 al 10) y luego mostrarlo por la consola, si alguno de esos números es el 5, hacer sonar un buzzer
 
-#Funciones
+# Funciones
 
 Generar varias funciones que permiten tocar una melodía diferente cada una.
 generar una función que devuelva la distancias de los objetos cercanos.
